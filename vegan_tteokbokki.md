@@ -5,7 +5,7 @@
 * 500 g koreanske riskaker (tteok)
 * 1 løk, finhakket
 * 500 ml grønnsaksbuljong
-* 1 flak kelp (japansk: kombu, koreansk: dashima)
+* 1 stort blad kelp (japansk: kombu, koreansk: dashima)
     * evt. bruk MSG
 
 * 3 SS gochujang (koreansk chilipaste)
