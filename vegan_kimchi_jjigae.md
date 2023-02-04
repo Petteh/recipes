@@ -5,12 +5,13 @@
 * 250 g kimchi
 * 500 ml grønnsaksbuljong
 * Nøytral olje
-* 250-300 g tofu
+* 250-300 g tofu  
+* 200-250 g fersk sopp
 
 * 2 ts gochugaru (koreansk chilipulver)    
 * 1 SS gochujang (koreansk chilipaste)
 * 1 ts sukker
-* 1-2 SS soyasaus
+* 1-2 SS soyasaus  
 
 * 2 stilker vårløk
 * 1-2 ts sesamolje
@@ -24,7 +25,7 @@
 1. Finhakk løk
 2. Kutt kimchi i bit-størrelse, ta av og spar væsken om mulig
 3. Kutt tofu i relativt flate, rektangulære stykker
-4. Stek kimchi og løk i en kjele med litt nøytral olje
+4. Stek sopp, kimchi og løk i en kjele med litt nøytral olje
 5. Tilsett buljong når løken og kimchien er tomme for fuktighet
 6. Tilsett tofu, gochujang, gochugaru, sukker og soyasaus. Tilsett også kimchi-væsken
 7. Kok opp, og la småkoke noen minutter til tofuen er mjuk
