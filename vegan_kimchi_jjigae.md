@@ -8,11 +8,13 @@
 * 250-300 g tofu  
 * 200-250 g fersk sopp
 
+### Krydder-saus
 * 2 ts gochugaru (koreansk chilipulver)    
 * 1 SS gochujang (koreansk chilipaste)
 * 1 ts sukker
 * 1-2 SS soyasaus  
 
+### Tilsettes til slutt
 * 2 stilker vårløk
 * 1-2 ts sesamolje
 
