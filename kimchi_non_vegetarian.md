@@ -1,6 +1,8 @@
 # Kimchi (ikke vegetarisk)
 
 ## Ingredienser
+Note: Alle grønnsaker veies etter skrelling
+
 ### Grønnsaker
 * 1 kg kinakål
 * 350 g (1 liten) rettich / daikon reddik
