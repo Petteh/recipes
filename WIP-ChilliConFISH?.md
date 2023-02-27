@@ -7,4 +7,10 @@ Ingredijens:
 3. 1-4 Gulrøtter
 4. 1/2-2 Løk
 5. Chicken Buljong tærning
-6. 
+6. 1 Tablespoon Gochujang
+7. 1 Tablespoon 
+
+Spices:
+
+8. Whiteløk powder
+9. 
