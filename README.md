@@ -1,2 +1,2 @@
 # Oppskrifter
-Diverse personlige oppskrifter kopiert fra diverse online sources. Alt er vegetarisk eller vegansk
+Personlige oppskrifter kopiert fra diverse online sources. Det meste er vegetarisk eller vegansk

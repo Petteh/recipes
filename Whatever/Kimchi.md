@@ -1,4 +1,5 @@
 # Kimchi (ikke vegetarisk)
+Basert på: [https://www.joshuaweissman.com/post/kimchi]
 
 ## Ingredienser
 Note: Alle grønnsaker veies etter skrelling
