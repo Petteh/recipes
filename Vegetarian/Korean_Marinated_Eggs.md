@@ -1,11 +1,9 @@
 # Koreansk marinerte egg (mayak egg)
-Oppskrift tatt fra: https://seonkyounglongest.com/mayak-eggs/
+Basert på: https://seonkyounglongest.com/mayak-eggs/
 
 ## Ingredienser
 ### Egg
 * 6 egg
-* (salt)
-* (eddik)
 
 ### Marinade
 * 150 g vann
