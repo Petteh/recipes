@@ -1,10 +1,14 @@
+NOTE: Ikke testet
+
 # Kjøleskapsgrøt
 ## Ingredienser
-* 80 g lettkokte havregryn
-* 200 g alpro 3.5% fett havremelk
-* 1 SS (~10 g) chia-frø
-* 1 SS (~25 g) akasie-honning
-* 2/3 - 1 ts salt
+* 100 g store havregryn
+* 200 g melk
+* 200 g gresk yoghurt
+* 2 SS (~10 g) chiafrø
+* 2 SS (~10 g) linfrø
+* 2 SS (~30 g) lønnesirup / flytende honning
+* 1 ts salt
 
 Serveres med:
 * 1 SS (~40 g) peanøttsmør
